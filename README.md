@@ -39,7 +39,7 @@
 </div>
 
 <!-- Top Languages Section -->
-<div align="center" >
+<div >
   <!-- Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdpiarulislamalif&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
