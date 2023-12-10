@@ -1,4 +1,4 @@
-![logo](https://github.com/MdPiarulIslamAlif/MdPiarulIslam/blob/main/Purple%20Modern%20Gaming%20Youtube%20Banner.jpg)
+![logo](https://github.com/MdPiarulIslamAlif/MdPiarulIslamAlif/blob/main/Purple%20Modern%20Gaming%20Youtube%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Md Piarul islam (Alif)</h1>
 <h3 align="center">A passionate frontend developer from in Bangladesh</h3>
 
